@@ -5,6 +5,8 @@ var {Route, Router, IndexRoute, hashHistory} = require('react-router');
 import ComponentOne from '../components/ComponentOne';
 import ComponentTwo from '../components/ComponentTwo';
 
+// Playgroud project to explore the differences between React.createClass and React.Component
+
 
 // Load foundation
 $(document).foundation();
