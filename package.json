@@ -1,13 +1,13 @@
 {
-  "name": "boilerplate",
+  "name": "react-practice",
   "version": "1.0.0",
-  "description": "Simple react app",
+  "description": "Playground project to deepen my knowledge of React.Component and ES6",
   "main": "index.js",
   "scripts": {
     "test": "karma start",
     "start": "node server.js"
   },
-  "author": "Andrew Mead",
+  "author": "Roy Scheffers",
   "license": "MIT",
   "dependencies": {
     "axios": "^0.9.1",
