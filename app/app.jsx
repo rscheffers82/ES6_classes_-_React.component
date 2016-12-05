@@ -15,7 +15,7 @@ $(document).foundation();
 require('style!css!sass!applicationStyles')
 
 ReactDOM.render(
-  <div>
+  <div className="panel callout radius">
     <ComponentOne count={123}/>
     <ComponentTwo count={33}/>
   </div>,

@@ -21,7 +21,7 @@ var ComponentOne = React.createClass({
   },
   render: function () {
     return (
-      <div>
+      <div className="callout primary">
         <h3>Component One using React.createClass</h3>
         <p>Current count: {this.state.count}</p>
         <button className="button" onClick={this.onClick}>Button one</button>
